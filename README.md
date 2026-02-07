@@ -149,7 +149,7 @@ This project was built to practice and master:
 
 ## 👨‍💻 Author
 
-**Angel0zzx**
+ **Angel0zzx**
 
 Learning project to strengthen frontend development skills.
 
